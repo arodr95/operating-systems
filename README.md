@@ -1,2 +1,2 @@
-# operating-systems
-projects from operating systems course
+# Operating Systems Course
+Projects from operating systems course
